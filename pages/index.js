@@ -5,7 +5,7 @@ import ChatCard from '../components/ChatCard';
 import PulsatingCard from '../components/PulsatingCard';
 import askChatGpt from '../api/chatGpt';
 
-import '../styles/globals.css';
+// import '../styles/globals.css';
 
 export default function App() {
   const [formInput, setFormInput] = useState('');
